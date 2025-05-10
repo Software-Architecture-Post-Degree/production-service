@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: production-service-config
 data:
-  ORDER_SERVICE_URL: a946c461f2aa04baca3e6553f812d884-424683932.us-east-1.elb.amazonaws.com:8080
+  ORDER_SERVICE_URL: af4e96927ae1a4a9cb4b241ce087485c-1632437828.us-east-1.elb.amazonaws.com:8080
